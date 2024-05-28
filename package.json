@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.35.23",
+    "chart.js": "^4.4.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.5"
+  }
+}
